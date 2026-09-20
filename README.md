@@ -32,3 +32,10 @@ Note: This section is for stages 2 and beyond.
    `app/main.py`.
 1. Run `codecrafters submit` to submit your solution to CodeCrafters. Test
    output will be streamed to your terminal.
+
+# Learnings
+
+Notes on what I picked up while building this live in [`learnings/`](learnings/):
+
+- [Reading user input in Python](learnings/reading-user-input.md)
+- [Dictionary lookup and the dispatcher pattern](learnings/command-dispatch.md)
